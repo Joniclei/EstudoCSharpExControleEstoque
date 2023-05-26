@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/EstudoCSharpExControleEstoque.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/EstudoCSharpExControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/EstudoCSharpExControleEstoque.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/EstudoCSharpExControleEstoque.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/EstudoCSharpExControleEstoque.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/bin/Debug/net7.0/EstudoCSharpExControleEstoque
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/bin/Debug/net7.0/EstudoCSharpExControleEstoque.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/bin/Debug/net7.0/EstudoCSharpExControleEstoque.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/bin/Debug/net7.0/EstudoCSharpExControleEstoque.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/bin/Debug/net7.0/EstudoCSharpExControleEstoque.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/EstudoCSharpExControleEstoque.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/refint/EstudoCSharpExControleEstoque.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/EstudoCSharpExControleEstoque.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/EstudoCSharpExControleEstoque.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCSharpExControleEstoque/obj/Debug/net7.0/ref/EstudoCSharpExControleEstoque.dll
